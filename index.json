@@ -1,0 +1,11 @@
+{
+  "org": "certbot",
+  "repo": "certbot",
+  "versions": [
+    {
+      "commit": "138defe9c7c68ceb29a66cbd5f3a346567139211",
+      "tag": "",
+      "parsed_at": "2026-11-07T16:57:30.966776+00:00"
+    }
+  ]
+}
